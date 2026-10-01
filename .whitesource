@@ -1,7 +1,8 @@
 {
   "scanSettings": {
     "configMode": "AUTO",
-    "baseBranches": []
+    "baseBranches": [],
+    "includeDevDependencies": true
   },
   "scanSettingsSAST": {
     "enableScan": false,
